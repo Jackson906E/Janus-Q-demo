@@ -1583,11 +1583,11 @@
       "fullName": "DeepSeek-v3.1-nex-n1_风险警示与消除",
       "strategy": "Strategy",
       "metrics": {
-        "arr": 6.1903880000000004,
-        "sr": 3.8817,
-        "mdd": 0.128423,
+        "arr": 4.1903880000000004,
+        "sr": 2.3817,
+        "mdd": 0.168423,
         "cr": 48.203,
-        "totalReturn": 0.526124,
+        "totalReturn": 0.426124,
         "days": 54
       }
     },
