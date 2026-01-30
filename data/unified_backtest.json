@@ -1,0 +1,240 @@
+[
+  {
+    "name": "ChatTS-14B",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.557775,
+      "sr": -4.2827,
+      "mdd": 0.16747399999999998,
+      "cr": -3.3305,
+      "totalReturn": -0.160412,
+      "days": 54,
+      "da": 0.4995,
+      "eta": 0.6223
+    }
+  },
+  {
+    "name": "Claude-3-Haiku",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.503986,
+      "sr": -5.4698,
+      "mdd": 0.139504,
+      "cr": -3.6127,
+      "totalReturn": -0.139504,
+      "days": 54,
+      "da": 0.4547,
+      "eta": 0.4884
+    }
+  },
+  {
+    "name": "DISC-FinLLM",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.674826,
+      "sr": -4.6307,
+      "mdd": 0.21394400000000002,
+      "cr": -3.1542,
+      "totalReturn": -0.21394400000000002,
+      "days": 54,
+      "da": 0.4286,
+      "eta": 0.5608
+    }
+  },
+  {
+    "name": "DeepSeek-v3.1-nex-n1",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": 0.06607400000000001,
+      "sr": 0.371,
+      "mdd": 0.12998300000000002,
+      "cr": 0.5083,
+      "totalReturn": 0.013805000000000001,
+      "days": 54,
+      "da": 0.4365,
+      "eta": 0.6811
+    }
+  },
+  {
+    "name": "FinMA",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.702748,
+      "sr": -6.9668,
+      "mdd": 0.235849,
+      "cr": -2.9797,
+      "totalReturn": -0.228922,
+      "days": 54,
+      "da": 0.455,
+      "eta": 0.5714
+    }
+  },
+  {
+    "name": "GPT-4o-mini",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.39890099999999995,
+      "sr": -3.8759,
+      "mdd": 0.105996,
+      "cr": -3.7634,
+      "totalReturn": -0.103333,
+      "days": 54,
+      "da": 0.47,
+      "eta": 0.7508
+    }
+  },
+  {
+    "name": "Gemini-2.5-flash",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.28748799999999997,
+      "sr": -2.0899,
+      "mdd": 0.08047399999999999,
+      "cr": -3.5724,
+      "totalReturn": -0.070059,
+      "days": 54,
+      "da": 0.4276,
+      "eta": 0.6797
+    }
+  },
+  {
+    "name": "Grok3-mini-beta",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.31158,
+      "sr": -2.2698,
+      "mdd": 0.08550700000000001,
+      "cr": -3.6439,
+      "totalReturn": -0.076888,
+      "days": 54,
+      "da": 0.4795,
+      "eta": 0.5417
+    }
+  },
+  {
+    "name": "Janus-Q",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": 0.609081,
+      "sr": 1.3088,
+      "mdd": 0.119599,
+      "cr": 5.0927,
+      "totalReturn": 0.107304,
+      "days": 54,
+      "da": 0.5869,
+      "eta": 0.8009
+    }
+  },
+  {
+    "name": "QwQ-32B",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": 0.108233,
+      "sr": 0.6481,
+      "mdd": 0.09794399999999999,
+      "cr": 1.1051,
+      "totalReturn": 0.022265999999999998,
+      "days": 54,
+      "da": 0.4674,
+      "eta": 0.708
+    }
+  },
+  {
+    "name": "Qwen2.5-7B",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.43705700000000003,
+      "sr": -3.9154,
+      "mdd": 0.117734,
+      "cr": -3.7122,
+      "totalReturn": -0.115846,
+      "days": 54,
+      "da": 0.4114,
+      "eta": 0.4879
+    }
+  },
+  {
+    "name": "Stock-Chain",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.589442,
+      "sr": -5.3581,
+      "mdd": 0.17997699999999997,
+      "cr": -3.2751,
+      "totalReturn": -0.173674,
+      "days": 54,
+      "da": 0.451,
+      "eta": 0.4364
+    }
+  },
+  {
+    "name": "Time-MQA",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.525632,
+      "sr": -4.2184,
+      "mdd": 0.158896,
+      "cr": -3.308,
+      "totalReturn": -0.147693,
+      "days": 54,
+      "da": 0.4732,
+      "eta": 0.5958
+    }
+  },
+  {
+    "name": "TimeMaster",
+    "strategy": "Strategy",
+    "metrics": {
+      "arr": -0.624339,
+      "sr": -5.9237,
+      "mdd": 0.198064,
+      "cr": -3.1522,
+      "totalReturn": -0.189254,
+      "days": 54,
+      "da": 0.4472,
+      "eta": 0.6263
+    }
+  },
+  {
+    "name": "CSI 300",
+    "strategy": "Buy and Hold",
+    "metrics": {
+      "arr": -0.269973,
+      "sr": -1.8027,
+      "mdd": 0.094475,
+      "cr": -2.8576,
+      "totalReturn": -0.065207,
+      "days": 54,
+      "da": 0,
+      "eta": 0
+    }
+  },
+  {
+    "name": "CSI 500",
+    "strategy": "Buy and Hold",
+    "metrics": {
+      "arr": -0.328446,
+      "sr": -1.6074,
+      "mdd": 0.142266,
+      "cr": -2.3087,
+      "totalReturn": -0.08178200000000001,
+      "days": 54,
+      "da": 0,
+      "eta": 0
+    }
+  },
+  {
+    "name": "CSI 1000",
+    "strategy": "Buy and Hold",
+    "metrics": {
+      "arr": -0.2758,
+      "sr": -1.036,
+      "mdd": 0.145641,
+      "cr": -1.8937,
+      "totalReturn": -0.066811,
+      "days": 54,
+      "da": 0,
+      "eta": 0
+    }
+  }
+]
