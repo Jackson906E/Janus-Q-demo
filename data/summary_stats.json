@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2026-01-30T00:25:30.657960",
+  "totalModels": 17,
+  "totalEventTypes": 10,
+  "eventTypesWithData": 10,
+  "unifiedBacktestAvailable": true,
+  "eventTypeBacktestAvailable": true,
+  "eventWeightsAvailable": true,
+  "navTimeseriesAvailable": true,
+  "eventTypeNavTimeseriesAvailable": true,
+  "eventTypeNavCount": 10
+}

@@ -1,0 +1,1712 @@
+{
+  "个人言行": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.212433,
+        "sr": -0.7928,
+        "mdd": 0.04383600000000001,
+        "cr": -4.8461,
+        "totalReturn": -0.010369999999999999,
+        "days": 11
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 3.070729,
+        "sr": 1.9015,
+        "mdd": 0.338148,
+        "cr": 9.081,
+        "totalReturn": 0.34346,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.261061,
+        "sr": 0.7029,
+        "mdd": 0.171405,
+        "cr": 1.5231,
+        "totalReturn": 0.049027,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.182222,
+        "sr": -0.2806,
+        "mdd": 0.13014699999999998,
+        "cr": -1.4001,
+        "totalReturn": -0.041426,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 8.863256999999999,
+        "sr": 3.7478,
+        "mdd": 0.22303699999999999,
+        "cr": 39.739,
+        "totalReturn": 0.618303,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 2.253481,
+        "sr": 2.3984,
+        "mdd": 0.098693,
+        "cr": 22.8332,
+        "totalReturn": 0.269666,
+        "days": 51
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.671593,
+        "sr": -3.0354,
+        "mdd": 0.24597100000000002,
+        "cr": -2.7304,
+        "totalReturn": -0.212276,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.5213880000000001,
+        "sr": 2.2754,
+        "mdd": 0.046986,
+        "cr": 11.0966,
+        "totalReturn": 0.090448,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.567017,
+        "sr": 0.9514,
+        "mdd": 0.202803,
+        "cr": 2.7959,
+        "totalReturn": 0.097118,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.321317,
+        "sr": 0.8792,
+        "mdd": 0.130192,
+        "cr": 2.468,
+        "totalReturn": 0.061524999999999996,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.50345,
+        "sr": -2.9933,
+        "mdd": 0.171477,
+        "cr": -2.936,
+        "totalReturn": -0.139305,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.09843099999999999,
+        "sr": -0.018,
+        "mdd": 0.24496400000000002,
+        "cr": -0.4018,
+        "totalReturn": -0.021557,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_个人言行",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.801045,
+        "sr": -5.0588,
+        "mdd": 0.025642,
+        "cr": -31.2397,
+        "totalReturn": -0.012733000000000001,
+        "days": 2
+      }
+    }
+  ],
+  "分红转送": [
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.19601600000000002,
+        "sr": -3.5496,
+        "mdd": 0.018017000000000002,
+        "cr": -10.8795,
+        "totalReturn": -0.018017000000000002,
+        "days": 21
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.317271,
+        "sr": 1.8341,
+        "mdd": 0.029613,
+        "cr": 10.7139,
+        "totalReturn": 0.05389,
+        "days": 48
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.055830000000000005,
+        "sr": -0.1587,
+        "mdd": 0.10435900000000001,
+        "cr": -0.535,
+        "totalReturn": -0.011559,
+        "days": 51
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.411816,
+        "sr": -2.4763,
+        "mdd": 0.106836,
+        "cr": -3.8547,
+        "totalReturn": -0.094242,
+        "days": 47
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.12703699999999998,
+        "sr": -0.3508,
+        "mdd": 0.125008,
+        "cr": -1.0162,
+        "totalReturn": -0.028694,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.145177,
+        "sr": -2.7634,
+        "mdd": 0.020941,
+        "cr": -6.9325,
+        "totalReturn": -0.020941,
+        "days": 34
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_分红转送",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.5332009999999999,
+        "sr": -2.1007,
+        "mdd": 0.150625,
+        "cr": -3.5399,
+        "totalReturn": -0.150625,
+        "days": 54
+      }
+    }
+  ],
+  "股权变动": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.6418980000000001,
+        "sr": -3.6741,
+        "mdd": 0.214739,
+        "cr": -2.9892,
+        "totalReturn": -0.197528,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.603082,
+        "sr": -5.4755,
+        "mdd": 0.196424,
+        "cr": -3.0703,
+        "totalReturn": -0.179634,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.60283,
+        "sr": -1.1594,
+        "mdd": 0.22920400000000002,
+        "cr": -2.6301,
+        "totalReturn": -0.17952300000000002,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.488673,
+        "sr": 1.3341,
+        "mdd": 0.137799,
+        "cr": 3.5463,
+        "totalReturn": 0.089001,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.7721750000000001,
+        "sr": -5.0868,
+        "mdd": 0.302991,
+        "cr": -2.5485,
+        "totalReturn": -0.271645,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.38399700000000003,
+        "sr": -2.1797,
+        "mdd": 0.134102,
+        "cr": -2.8635,
+        "totalReturn": -0.098615,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.12440799999999999,
+        "sr": -0.5737,
+        "mdd": 0.110463,
+        "cr": -1.1262,
+        "totalReturn": -0.028068,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.537753,
+        "sr": -3.2034,
+        "mdd": 0.153888,
+        "cr": -3.4944,
+        "totalReturn": -0.15240700000000001,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.920416,
+        "sr": 2.4667,
+        "mdd": 0.126165,
+        "cr": 15.2214,
+        "totalReturn": 0.25816700000000004,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.94929,
+        "sr": 1.9759,
+        "mdd": 0.128918,
+        "cr": 7.3635,
+        "totalReturn": 0.153762,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.39062800000000003,
+        "sr": -1.9783,
+        "mdd": 0.16727799999999998,
+        "cr": -2.3352,
+        "totalReturn": -0.100702,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.429673,
+        "sr": -1.1343,
+        "mdd": 0.24831,
+        "cr": -1.7304,
+        "totalReturn": -0.113373,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.347325,
+        "sr": -1.2434,
+        "mdd": 0.17231100000000002,
+        "cr": -2.0157,
+        "totalReturn": -0.08737500000000001,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_股权变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.742841,
+        "sr": -5.6714,
+        "mdd": 0.277496,
+        "cr": -2.6769,
+        "totalReturn": -0.252494,
+        "days": 54
+      }
+    }
+  ],
+  "融资": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.49418500000000004,
+        "sr": -2.0593,
+        "mdd": 0.147343,
+        "cr": -3.354,
+        "totalReturn": -0.135889,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.263911,
+        "sr": 1.8883,
+        "mdd": 0.159546,
+        "cr": 7.9219,
+        "totalReturn": 0.191355,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.584488,
+        "sr": -1.6276,
+        "mdd": 0.19666799999999998,
+        "cr": -2.9719,
+        "totalReturn": -0.16283999999999998,
+        "days": 51
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.039532,
+        "sr": 0.0544,
+        "mdd": 0.147027,
+        "cr": -0.2689,
+        "totalReturn": -0.008447,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.684432,
+        "sr": -15.8745,
+        "mdd": 0.009112,
+        "cr": -75.1128,
+        "totalReturn": -0.009112,
+        "days": 2
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.6931449999999999,
+        "sr": 1.7144,
+        "mdd": 0.10575200000000001,
+        "cr": 6.5544,
+        "totalReturn": 0.11945299999999999,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.414402,
+        "sr": -0.9236,
+        "mdd": 0.17948899999999998,
+        "cr": -2.3088,
+        "totalReturn": -0.108339,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.306131,
+        "sr": 2.1105,
+        "mdd": 0.15287,
+        "cr": 8.544,
+        "totalReturn": 0.196082,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.24607900000000002,
+        "sr": 0.688,
+        "mdd": 0.176238,
+        "cr": 1.3963,
+        "totalReturn": 0.048272,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.286236,
+        "sr": -0.6671,
+        "mdd": 0.155811,
+        "cr": -1.8371,
+        "totalReturn": -0.06970900000000001,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.701969,
+        "sr": -2.655,
+        "mdd": 0.270095,
+        "cr": -2.599,
+        "totalReturn": -0.228489,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.026549,
+        "sr": 0.104,
+        "mdd": 0.127633,
+        "cr": -0.208,
+        "totalReturn": -0.0056430000000000004,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.8391280000000001,
+        "sr": -3.0794,
+        "mdd": 0.323979,
+        "cr": -2.5901,
+        "totalReturn": -0.323979,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_融资",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.405386,
+        "sr": -0.8725,
+        "mdd": 0.174658,
+        "cr": -2.321,
+        "totalReturn": -0.105415,
+        "days": 54
+      }
+    }
+  ],
+  "行业": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.001336,
+        "sr": 1.2752,
+        "mdd": 0.255956,
+        "cr": 3.9121,
+        "totalReturn": 0.157105,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.36505499999999996,
+        "sr": -0.4638,
+        "mdd": 0.17383500000000002,
+        "cr": -2.1,
+        "totalReturn": -0.09110900000000001,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.504435,
+        "sr": 4.5344,
+        "mdd": 0.0,
+        "cr": 0.0,
+        "totalReturn": 0.036299,
+        "days": 22
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.35849,
+        "sr": -0.7057,
+        "mdd": 0.194022,
+        "cr": -1.8477,
+        "totalReturn": -0.08914,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.712225,
+        "sr": -3.7759,
+        "mdd": 0.150503,
+        "cr": -4.7323,
+        "totalReturn": -0.150503,
+        "days": 33
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.572973,
+        "sr": -1.9162,
+        "mdd": 0.17535399999999998,
+        "cr": -3.2675,
+        "totalReturn": -0.16386099999999998,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.1181999999999999,
+        "sr": 1.32,
+        "mdd": 0.3734,
+        "cr": 2.99,
+        "totalReturn": 0.1745,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.560932,
+        "sr": 0.9481,
+        "mdd": 0.277913,
+        "cr": 2.0184,
+        "totalReturn": 0.098176,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 2.080615,
+        "sr": 2.1748,
+        "mdd": 0.138993,
+        "cr": 14.9692,
+        "totalReturn": 0.255715,
+        "days": 51
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.3840430000000001,
+        "sr": 1.5776,
+        "mdd": 0.173891,
+        "cr": 7.9593,
+        "totalReturn": 0.20048200000000002,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.5929449999999999,
+        "sr": -2.8814,
+        "mdd": 0.17646,
+        "cr": -3.3602,
+        "totalReturn": -0.17518899999999998,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.376513,
+        "sr": -0.637,
+        "mdd": 0.192765,
+        "cr": -1.9532,
+        "totalReturn": -0.094583,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.7812290000000001,
+        "sr": -2.8662,
+        "mdd": 0.298896,
+        "cr": -2.6137,
+        "totalReturn": -0.277947,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_行业",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.185392,
+        "sr": 0.0765,
+        "mdd": 0.243015,
+        "cr": -0.7629,
+        "totalReturn": -0.042209,
+        "days": 53
+      }
+    }
+  ],
+  "评级调整": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.348526,
+        "sr": -1.532,
+        "mdd": 0.140741,
+        "cr": -2.4764,
+        "totalReturn": -0.086183,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.471627,
+        "sr": -1.586,
+        "mdd": 0.16264399999999998,
+        "cr": -2.8998,
+        "totalReturn": -0.125561,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.6104930000000001,
+        "sr": -4.4036,
+        "mdd": 0.173718,
+        "cr": -3.5143,
+        "totalReturn": -0.173718,
+        "days": 51
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.23351,
+        "sr": -0.3391,
+        "mdd": 0.28160599999999997,
+        "cr": -0.8292,
+        "totalReturn": -0.054395,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.32874400000000004,
+        "sr": 0.8505,
+        "mdd": 0.124808,
+        "cr": 2.634,
+        "totalReturn": 0.06280000000000001,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.7721810000000001,
+        "sr": -3.8668,
+        "mdd": 0.267361,
+        "cr": -2.8882,
+        "totalReturn": -0.267361,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.6229,
+        "sr": -2.1145,
+        "mdd": 0.25339300000000003,
+        "cr": -2.4582,
+        "totalReturn": -0.182285,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.553755,
+        "sr": -1.8076,
+        "mdd": 0.164281,
+        "cr": -3.3708,
+        "totalReturn": -0.15337699999999999,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.89754,
+        "sr": 1.9512,
+        "mdd": 0.098748,
+        "cr": 9.0892,
+        "totalReturn": 0.132642,
+        "days": 49
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.556079,
+        "sr": -1.4357,
+        "mdd": 0.250505,
+        "cr": -2.2198,
+        "totalReturn": -0.157011,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.6513410000000001,
+        "sr": -3.8482,
+        "mdd": 0.209232,
+        "cr": -3.113,
+        "totalReturn": -0.18865300000000002,
+        "days": 50
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.579925,
+        "sr": -1.5724,
+        "mdd": 0.22441,
+        "cr": -2.5842,
+        "totalReturn": -0.16674299999999997,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.480415,
+        "sr": -1.9635,
+        "mdd": 0.177589,
+        "cr": -2.7052,
+        "totalReturn": -0.11495,
+        "days": 47
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_评级调整",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.284696,
+        "sr": -1.557,
+        "mdd": 0.07181799999999999,
+        "cr": -3.9641,
+        "totalReturn": -0.063071,
+        "days": 49
+      }
+    }
+  ],
+  "财务状况": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.533628,
+        "sr": -1.4861,
+        "mdd": 0.255088,
+        "cr": -2.0919,
+        "totalReturn": -0.150792,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.6012810000000001,
+        "sr": -2.4518,
+        "mdd": 0.20529699999999998,
+        "cr": -2.9288,
+        "totalReturn": -0.178838,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.400678,
+        "sr": -1.1379,
+        "mdd": 0.17600200000000002,
+        "cr": -2.2766,
+        "totalReturn": -0.100253,
+        "days": 52
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.537209,
+        "sr": -2.2456,
+        "mdd": 0.152194,
+        "cr": -3.5298,
+        "totalReturn": -0.152194,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.7379340000000001,
+        "sr": -2.3431,
+        "mdd": 0.315237,
+        "cr": -2.3409,
+        "totalReturn": -0.24946000000000002,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.825985,
+        "sr": -3.6374,
+        "mdd": 0.353181,
+        "cr": -2.3387,
+        "totalReturn": -0.312506,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.715397,
+        "sr": -3.6057,
+        "mdd": 0.271322,
+        "cr": -2.6367,
+        "totalReturn": -0.23607399999999998,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.697294,
+        "sr": -2.8691,
+        "mdd": 0.253778,
+        "cr": -2.7477,
+        "totalReturn": -0.225912,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.253117,
+        "sr": -0.4914,
+        "mdd": 0.174021,
+        "cr": -1.4545,
+        "totalReturn": -0.060622999999999996,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.742614,
+        "sr": -2.8605,
+        "mdd": 0.313898,
+        "cr": -2.3658,
+        "totalReturn": -0.248316,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.635597,
+        "sr": -2.2916,
+        "mdd": 0.319474,
+        "cr": -1.9895,
+        "totalReturn": -0.194523,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 4.569846,
+        "sr": 4.4443,
+        "mdd": 0.05239,
+        "cr": 87.2282,
+        "totalReturn": 0.252189,
+        "days": 33
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.07772,
+        "sr": -0.0098,
+        "mdd": 0.187689,
+        "cr": -0.4141,
+        "totalReturn": -0.017188000000000002,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_财务状况",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.7506059999999999,
+        "sr": 2.2104,
+        "mdd": 0.156902,
+        "cr": 11.1573,
+        "totalReturn": 0.242119,
+        "days": 54
+      }
+    }
+  ],
+  "资产变动": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.9047029999999999,
+        "sr": -7.39,
+        "mdd": 0.401604,
+        "cr": -2.2527,
+        "totalReturn": -0.395729,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.764375,
+        "sr": -2.2095,
+        "mdd": 0.306934,
+        "cr": -2.4904,
+        "totalReturn": -0.262152,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.797151,
+        "sr": -2.9677,
+        "mdd": 0.312054,
+        "cr": -2.5545,
+        "totalReturn": -0.285032,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.593134,
+        "sr": -1.935,
+        "mdd": 0.201372,
+        "cr": -2.9455,
+        "totalReturn": -0.17232299999999998,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.8768779999999999,
+        "sr": -4.249,
+        "mdd": 0.42958399999999997,
+        "cr": -2.0412,
+        "totalReturn": -0.36162999999999995,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.898711,
+        "sr": -6.7235,
+        "mdd": 0.388021,
+        "cr": -2.3161,
+        "totalReturn": -0.38778199999999996,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.844379,
+        "sr": -5.7079,
+        "mdd": 0.32939300000000005,
+        "cr": -2.5634,
+        "totalReturn": -0.328769,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.954108,
+        "sr": -7.6466,
+        "mdd": 0.48436300000000004,
+        "cr": -1.9698,
+        "totalReturn": -0.483311,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.3216990000000002,
+        "sr": 2.0497,
+        "mdd": 0.125874,
+        "cr": 10.5002,
+        "totalReturn": 0.19780699999999998,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.643399,
+        "sr": -3.2504,
+        "mdd": 0.204897,
+        "cr": -3.1401,
+        "totalReturn": -0.19824999999999998,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.912915,
+        "sr": -5.7733,
+        "mdd": 0.407669,
+        "cr": -2.2394,
+        "totalReturn": -0.407287,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.7373959999999999,
+        "sr": -3.0253,
+        "mdd": 0.304978,
+        "cr": -2.4179,
+        "totalReturn": -0.24913,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.541602,
+        "sr": -0.93,
+        "mdd": 0.22211099999999998,
+        "cr": -2.4384,
+        "totalReturn": -0.146031,
+        "days": 51
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_资产变动",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.860184,
+        "sr": -1.8067,
+        "mdd": 0.06122,
+        "cr": -14.0508,
+        "totalReturn": -0.015493,
+        "days": 2
+      }
+    }
+  ],
+  "违法违规": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.427739,
+        "sr": -0.9929,
+        "mdd": 0.19780799999999998,
+        "cr": -2.1624,
+        "totalReturn": -0.11273,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.9117770000000001,
+        "sr": 1.5545,
+        "mdd": 0.15079499999999998,
+        "cr": 6.0465,
+        "totalReturn": 0.14896800000000002,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "DISC-FinLLM",
+      "fullName": "DISC-FinLLM_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.376345,
+        "sr": 2.4302,
+        "mdd": 0.112372,
+        "cr": 12.2481,
+        "totalReturn": 0.199666,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.053428,
+        "sr": 0.2338,
+        "mdd": 0.301991,
+        "cr": -0.1769,
+        "totalReturn": -0.011482000000000001,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "FinMA",
+      "fullName": "FinMA_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.233707,
+        "sr": -1.7724,
+        "mdd": 0.058235,
+        "cr": -4.0132,
+        "totalReturn": -0.034258000000000004,
+        "days": 33
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.417883,
+        "sr": 1.0151,
+        "mdd": 0.13800700000000002,
+        "cr": 3.028,
+        "totalReturn": 0.077691,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.081494,
+        "sr": 0.1456,
+        "mdd": 0.262822,
+        "cr": -0.3101,
+        "totalReturn": -0.018050999999999998,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.7483920000000001,
+        "sr": -2.6771,
+        "mdd": 0.262517,
+        "cr": -2.8508,
+        "totalReturn": -0.255981,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.35491700000000004,
+        "sr": -0.9716,
+        "mdd": 0.178498,
+        "cr": -1.9884,
+        "totalReturn": -0.089661,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.93654,
+        "sr": 2.0193,
+        "mdd": 0.21049600000000002,
+        "cr": 9.1999,
+        "totalReturn": 0.259652,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.158102,
+        "sr": -0.0951,
+        "mdd": 0.22139299999999998,
+        "cr": -0.7141,
+        "totalReturn": -0.036206,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.563576,
+        "sr": -5.3003,
+        "mdd": 0.054398999999999996,
+        "cr": -10.3601,
+        "totalReturn": -0.054398999999999996,
+        "days": 17
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.653862,
+        "sr": -1.6089,
+        "mdd": 0.316368,
+        "cr": -2.0668,
+        "totalReturn": -0.189821,
+        "days": 50
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_违法违规",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 0.20921800000000002,
+        "sr": 0.6126,
+        "mdd": 0.20491499999999999,
+        "cr": 1.021,
+        "totalReturn": 0.041548999999999996,
+        "days": 54
+      }
+    }
+  ],
+  "风险警示与消除": [
+    {
+      "modelName": "ChatTS-14B",
+      "fullName": "ChatTS-14B_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.6976570000000002,
+        "sr": 2.0256,
+        "mdd": 0.160051,
+        "cr": 10.6069,
+        "totalReturn": 0.236956,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Claude-3-Haiku",
+      "fullName": "Claude-3-Haiku_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 3.818505,
+        "sr": 2.5351,
+        "mdd": 0.24933499999999997,
+        "cr": 15.3147,
+        "totalReturn": 0.36615000000000003,
+        "days": 50
+      }
+    },
+    {
+      "modelName": "DeepSeek-v3.1-nex-n1",
+      "fullName": "DeepSeek-v3.1-nex-n1_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 6.1903880000000004,
+        "sr": 3.8817,
+        "mdd": 0.128423,
+        "cr": 48.203,
+        "totalReturn": 0.526124,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "GPT-4o-mini",
+      "fullName": "GPT-4o-mini_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 3.005012,
+        "sr": 2.1772,
+        "mdd": 0.185338,
+        "cr": 16.2137,
+        "totalReturn": 0.346261,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Gemini-2.5-flash",
+      "fullName": "Gemini-2.5-flash_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.3343690000000001,
+        "sr": 1.5834,
+        "mdd": 0.245653,
+        "cr": 5.4319,
+        "totalReturn": 0.199205,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Grok3-mini-beta",
+      "fullName": "Grok3-mini-beta_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 4.4564,
+        "sr": 2.65,
+        "mdd": 0.28,
+        "cr": 15.92,
+        "totalReturn": 0.4841970000000002,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Janus-Q",
+      "fullName": "Janus-Q_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.047581,
+        "sr": -0.0172,
+        "mdd": 0.117217,
+        "cr": -0.4059,
+        "totalReturn": -0.010201,
+        "days": 53
+      }
+    },
+    {
+      "modelName": "QwQ-32B",
+      "fullName": "QwQ-32B_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 3.87081,
+        "sr": 2.2957,
+        "mdd": 0.36680799999999997,
+        "cr": 10.5527,
+        "totalReturn": 0.403922,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Qwen2.5-7B",
+      "fullName": "Qwen2.5-7B_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 6.000445,
+        "sr": 3.3971,
+        "mdd": 0.218159,
+        "cr": 27.5049,
+        "totalReturn": 0.517394,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "Stock-Chain",
+      "fullName": "Stock-Chain_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 1.309988,
+        "sr": 3.8549,
+        "mdd": 0.028052,
+        "cr": 46.6985,
+        "totalReturn": 0.068705,
+        "days": 20
+      }
+    },
+    {
+      "modelName": "Time-MQA",
+      "fullName": "Time-MQA_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": 5.2997760000000005,
+        "sr": 2.7829,
+        "mdd": 0.165137,
+        "cr": 32.0932,
+        "totalReturn": 0.483488,
+        "days": 54
+      }
+    },
+    {
+      "modelName": "TimeMaster",
+      "fullName": "TimeMaster_风险警示与消除",
+      "strategy": "Strategy",
+      "metrics": {
+        "arr": -0.28384,
+        "sr": -2.7955,
+        "mdd": 0.059753999999999995,
+        "cr": -4.7501,
+        "totalReturn": -0.047836,
+        "days": 37
+      }
+    }
+  ]
+}
